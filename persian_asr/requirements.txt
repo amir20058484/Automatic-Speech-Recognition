@@ -1,0 +1,13 @@
+numpy
+whisper
+gradio
+logging
+os
+functools
+shutil
+time
+pydub
+shekar
+math
+sys
+pytest
